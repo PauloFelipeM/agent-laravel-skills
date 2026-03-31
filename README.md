@@ -4,7 +4,7 @@ A structured repository for creating and maintaining Laravel Best Practices opti
 
 ## Installation
 
-#### Option 1: Install this skill using [skills](https://github.com/vercel-labs/skills):
+### Option 1: Install this skill using [skills](https://github.com/vercel-labs/skills):
 
 ```bash
 # GitHub shorthand
@@ -17,7 +17,16 @@ npx skills add PauloFelipeM/agent-laravel-skills --global
 npx skills add PauloFelipeM/agent-laravel-skills -a claude-code -a cursor
 ```
 
-#### Option 2: Project-level (via CLAUDE.md)
+#### Supported Agents
+
+- Claude Code
+- OpenCode
+- Codex
+- Cursor
+- Antigravity
+- Roo Code
+
+### Option 2: Project-level (via CLAUDE.md)
 Download this repository and add a reference in your project's CLAUDE.md so Claude loads the rules for this project:
 
 ```bash
@@ -27,15 +36,6 @@ Follow the Laravel best practices defined in .claude/skills/laravel-best-practic
 
 # Laravel Best Practices
 Follow the Laravel best practices defined in .claude/skills/laravel-best-practices/AGENTS.md
-
-### Supported Agents
-
-- Claude Code
-- OpenCode
-- Codex
-- Cursor
-- Antigravity
-- Roo Code
 
 ## Structure
 
