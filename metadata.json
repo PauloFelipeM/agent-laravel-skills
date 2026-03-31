@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Laravel Best Practices",
+  "date": "2026-03-30",
+  "abstract": "This document provides a comprehensive set of best practices for Laravel applications, covering architecture, dependency injection, error handling, security, performance, testing, database patterns, API design, microservices, and DevOps. Each rule includes impact assessment, incorrect/correct code examples, and references to official Laravel documentation. Rules are prioritized by impact level to guide automated refactoring and AI-assisted code generation.",
+  "references": [
+    "[Laravel Documentation](https://laravel.com/docs)",
+    "[Laravel API Reference](https://laravel.com/api)",
+    "[Eloquent ORM](https://laravel.com/docs/eloquent)",
+    "[Laravel Testing](https://laravel.com/docs/testing)",
+    "[Laravel Security](https://laravel.com/docs/security)",
+    "[Laravel Queues](https://laravel.com/docs/queues)",
+    "[Laravel Sanctum](https://laravel.com/docs/sanctum)",
+    "[Laravel Horizon](https://laravel.com/docs/horizon)"
+  ]
+}
