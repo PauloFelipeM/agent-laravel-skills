@@ -123,6 +123,9 @@ Each rule file contains:
 - Correct code example with explanation
 - Additional context and references
 
+> Only read `AGENTS.md` or individual `rules/*.md` files when you need 
+> full implementation detail for a specific rule. Do not load them proactively.
+
 ## Full Compiled Document
 
 For the complete guide with all rules expanded: `AGENTS.md`
