@@ -126,3 +126,12 @@ Each rule file contains:
 ## Full Compiled Document
 
 For the complete guide with all rules expanded: `AGENTS.md`
+
+## Laravel Boost Compatibility
+
+If Laravel Boost is installed, the following rules are already covered 
+by its core guidelines and can be skipped:
+
+`security-validate-all-input`, `security-auth-jwt`, `db-avoid-n-plus-one`,
+`db-use-migrations`, `perf-use-caching`, `test-use-testcase-refresh-database`,
+`devops-use-logging`, `api-versioning`
