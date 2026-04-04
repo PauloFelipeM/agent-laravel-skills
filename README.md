@@ -23,6 +23,8 @@ npx skills add PauloFelipeM/agent-laravel-skills -a claude-code -a cursor
 - OpenCode
 - Codex
 - Cursor
+- Antigravity
+- Roo Code
 
 ### Option 2: Project-level (via MD file, using CLAUDE.md file as an example):
 Download this repository and add a reference in your project's CLAUDE.md so Claude loads the rules for this project:
