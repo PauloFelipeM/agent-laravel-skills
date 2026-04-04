@@ -24,7 +24,7 @@ npx skills add PauloFelipeM/agent-laravel-skills -a claude-code -a cursor
 - Codex
 - Cursor
 
-### Option 2: Project-level (via CLAUDE.md)
+### Option 2: Project-level (via MD file, using CLAUDE.md file as an example):
 Download this repository and add a reference in your project's CLAUDE.md so Claude loads the rules for this project:
 
 ```bash
