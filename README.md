@@ -59,6 +59,16 @@ Follow the Laravel best practices defined in .claude/skills/laravel-best-practic
    ./scripts/build.sh
    ```
 
+## How it works
+
+When you're writing or reviewing Laravel code in this project, just ask naturally:
+
+- "Review this controller"
+- "Create a new service for payments"
+- "Is this migration correct?"
+
+The skill will be applied automatically when relevant.
+
 ## Creating a New Rule
 
 1. Copy `rules/_template.md` to `rules/area-description.md`
