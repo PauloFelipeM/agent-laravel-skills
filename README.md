@@ -61,7 +61,7 @@ Follow the Laravel best practices defined in .claude/skills/laravel-best-practic
 
 ## How it works
 
-When you're writing or reviewing Laravel code in this project, just ask naturally:
+When you're writing or reviewing Laravel code in your project, just ask naturally:
 
 - "Review this controller"
 - "Create a new service for payments"
